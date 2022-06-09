@@ -1,0 +1,63 @@
+{
+  "project_info": {
+<<<<<<< HEAD
+    "project_number": "61957604878",
+    "project_id": "chat-app-85588",
+    "storage_bucket": "chat-app-85588.appspot.com"
+=======
+    "project_number": "521440653786",
+    "project_id": "chat-app-c0c92",
+    "storage_bucket": "chat-app-c0c92.appspot.com"
+>>>>>>> 4e0824b43ebd6bd7a27c61193db5383f6a91d02c
+  },
+  "client": [
+    {
+      "client_info": {
+<<<<<<< HEAD
+        "mobilesdk_app_id": "1:61957604878:android:cc25dc8fdae9eb25111e5f",
+        "android_client_info": {
+          "package_name": "com.auliamnaufal.chat_app"
+=======
+        "mobilesdk_app_id": "1:521440653786:android:9a246fa25f69b8d17210e3",
+        "android_client_info": {
+          "package_name": "com.danish.chat_app"
+>>>>>>> 4e0824b43ebd6bd7a27c61193db5383f6a91d02c
+        }
+      },
+      "oauth_client": [
+        {
+<<<<<<< HEAD
+          "client_id": "61957604878-nhvgb56bq79dd2gbes1bhl40l3rtnf7m.apps.googleusercontent.com",
+=======
+          "client_id": "521440653786-sd9po3mr3drb16o8kttlnv2fcohkdeu2.apps.googleusercontent.com",
+>>>>>>> 4e0824b43ebd6bd7a27c61193db5383f6a91d02c
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+<<<<<<< HEAD
+          "current_key": "AIzaSyBuWh1-y_YqLqdEakO3ri7FjOykIvZQW18"
+=======
+          "current_key": "AIzaSyD59zxX1SYdHxPdtKWt8qrTihEDOny7XgA"
+>>>>>>> 4e0824b43ebd6bd7a27c61193db5383f6a91d02c
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+<<<<<<< HEAD
+              "client_id": "61957604878-nhvgb56bq79dd2gbes1bhl40l3rtnf7m.apps.googleusercontent.com",
+=======
+              "client_id": "521440653786-sd9po3mr3drb16o8kttlnv2fcohkdeu2.apps.googleusercontent.com",
+>>>>>>> 4e0824b43ebd6bd7a27c61193db5383f6a91d02c
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
